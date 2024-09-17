@@ -41,7 +41,7 @@ h3 {
 }
 
 .foto01 {
-  width: 100%;
+  max-width: 100%;
 }
 
 .conteudo {
